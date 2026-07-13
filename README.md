@@ -25,7 +25,7 @@ cd MClicker*
 *//Bash
 pip install customtkinter pynput Pillow*
 
-*Run:*
+#To Run#
 
 *// Bash*
 *python app.py*
