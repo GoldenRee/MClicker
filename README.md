@@ -9,7 +9,7 @@ Hold to Click: No need to rely solely on toggle switches. MClicker features a na
 Dynamic Mode Switching: Transition between Left-Click (Combat) and Right-Click (Bridging/Building) modes on the fly. With our bindable key system, you can swap your target button mid-game without needing to open the GUI.
 
 Prerequisites
-OS: Windows (Required for hardware-level API interaction).
+OS: Windows 
 
 Python: 3.10 or higher.
 
@@ -18,6 +18,7 @@ Clone the repository:
 
 *//Bash
 git clone https://github.com/yourusername/MClicker.git
+
 cd MClicker*
 
 # Install dependencies:
