@@ -16,17 +16,17 @@ Python: 3.10 or higher.
 # Setup
 Clone the repository:
 
-git clone https://github.com/goldenree/MClicker.git
+```git clone https://github.com/goldenree/MClicker.git```
 
-cd MClicker
+```cd MClicker```
 
 # Install dependencies:
 
-pip install customtkinter pynput Pillow
+```pip install customtkinter pynput Pillow```
 
 #  Run
 
-python mclicker.py
+```python mclicker.py```
 
 
 
