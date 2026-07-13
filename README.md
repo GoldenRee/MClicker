@@ -16,10 +16,10 @@ Python: 3.10 or higher.
 # Setup
 Clone the repository:
 
-*//Bash
+//Bash
 git clone https://github.com/yourusername/MClicker.git
 
-cd MClicker*
+cd MClicker
 
 # Install dependencies:
 
