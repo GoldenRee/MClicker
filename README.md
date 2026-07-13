@@ -16,7 +16,7 @@ Python: 3.10 or higher.
 # Setup
 Clone the repository:
 
-git clone https://github.com/yourusername/MClicker.git
+git clone https://github.com/goldenree/MClicker.git
 
 cd MClicker
 
