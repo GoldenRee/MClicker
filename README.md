@@ -28,7 +28,7 @@ pip install customtkinter pynput Pillow*
 #To Run#
 
 *// Bash*
-*python app.py*
+*python mclicker.py*
 
 <img width="724" height="543" alt="image" src="https://github.com/user-attachments/assets/ae7cdc32-9bfe-4b0b-9edd-a7abdb91f2a3" /> <img width="728" height="539" alt="image" src="https://github.com/user-attachments/assets/d48a031e-71d5-43f3-bc0b-e8b592c9f200" />
 
